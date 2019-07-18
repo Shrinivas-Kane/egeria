@@ -30,6 +30,12 @@
   "url":"aaa"
  },
  {
+  "label": " short description",
+  "name": " short_description",
+  "type": "string",
+  "url":"aaa"
+ },
+ {
   "label": "Language",
   "name": "language",
   "type": "string",
