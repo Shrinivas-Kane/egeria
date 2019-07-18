@@ -30,8 +30,8 @@
   "url":"aaa"
  },
  {
-  "label": " short description",
-  "name": " short_description",
+  "label": "Short Description",
+  "name": "short_description",
   "type": "string",
   "url":"aaa"
  },
